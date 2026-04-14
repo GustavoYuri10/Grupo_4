@@ -35,6 +35,8 @@ if($total>=7) {
 
 
      } Else{
-        echo "<br>", " Reprovado", "<br>";    }}
+        echo "<br>", " Reprovado", "<br>";    }
+    
+}
 
 ?>
